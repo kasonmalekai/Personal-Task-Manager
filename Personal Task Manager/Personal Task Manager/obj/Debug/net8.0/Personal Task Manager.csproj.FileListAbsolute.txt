@@ -1,0 +1,14 @@
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.exe
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.deps.json
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.runtimeconfig.json
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.dll
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\bin\Debug\net8.0\Personal Task Manager.pdb
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.AssemblyInfoInputs.cache
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.AssemblyInfo.cs
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.dll
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\refint\Personal Task Manager.dll
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.pdb
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\Personal Task Manager.genruntimeconfig.cache
+C:\Users\kason\source\repos\Personal Task Manager\Personal Task Manager\obj\Debug\net8.0\ref\Personal Task Manager.dll
